@@ -4,9 +4,8 @@
     padding: 0;
 }
 
-body {
+.container {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background: #ffffff;
     color: #000000;
     font-size: 15px;
     line-height: 1.5;
@@ -21,14 +20,9 @@ p {
     font-size: 13px;
 }
 
-.container {
+body {
     background-color: rgb(219, 238, 255);
-    height: 500px;
-    width: 550px;
-    margin: 3% auto;
     align-items: center;
-    padding: 25px;
-    border-radius: 12px;
 }
 
 .form {
